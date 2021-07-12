@@ -20,8 +20,10 @@ I believe my purpose is to bring messages of humanity to people, intergeneration
 ### 7/8/2021
 
 1. What is the difference between supervised and unsupervised learning?
+
 (A) Supervised Learning is a type of ML that incorporates labels (classes) within the training data as it input into the algorithm. Additionally, Supervised Learning provides feedback to the computer directly to assist it in its ability to predict correct outcomes. This is primarily used in elements of Regression & Classification Models.
 Unsupervised Learning incorporates training data without any labels or classes. Additionally, there is no external feedback on whether the predictions or actions it is performing are correct. Instead, the machine must learn from patterns whether or not it is functioning appropriately. In order to achieve this, we use clustering do showcase the similarities between multiple features that can be used to identify patterns in the algorithm.
 
 2. Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.
+
 (A) The Scikit-Learn program is an open source library that is built on Pandas and other data analysis libraries. In fact, it was designed specifically for data mining and analysis such as feature extraction & normalizaition, regression, clustering, etc. It needs analysis libraries in order to achieve this functionality.
