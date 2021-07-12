@@ -1,1 +1,10 @@
 # FutureMakers
+
+## What I Hope To Learn
+### 7/6/2021
+
+One of the main reasons I am here is because I am afraid of computer scienc. I always have been. Since attending my first coding course at Berkeley, I've struggled immensely not only with the involved logic of computer programming, but mustering the curiosity necessary to solve the puzzles programming is embedded in. I suppose failing that first course may have also had something to do with that. It's been a thorn in my side for a quite a while now, and each time some new overzealous engineering professor wants to assign coding homework problems, I get anxious and and mentally unhinged. I'm afraid of coding. I'm afraid of how much I don't know, of being the weakest link in group projects, and afraid that I am not smart enough to not only engage with the material but to master it. So when I saw the opportunity to work with MIT Raise and Surestart this summer, I sought to change how I felt. 
+
+In this program I hope to learn the basic fundamentals of computer programming in Python. I am striving to establish mental tools and templates on how to approach problem sets from a computer's logical perspective, and understand how to redesign alternative (optimized) routes to solve problems and improve my default methodologies. Furthermore, I hope to learn how to balance my dependency on others with my own contribution to group work. I tend to overthink, hit roadblocks, ask for help, and eventually just copy for all intents and purposes. I want to contribute more than another another mouth to feed, and I am hoping that Surestart can teach me how. 
+
+In addition to my self edification and anxiety, I also hope to improve my ability to code in the context of animation. As an aspiring animation producer, I understand that one of the default coding languages for studio software is Python, and that it is necessary to understand how to design in Python just as much as it is with pencil. I am here to establish a sense of direction and possibility for myself as an animator and storyteller, and improve my versatility in storytelling as much as possible.
