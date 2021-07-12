@@ -27,3 +27,8 @@ Unsupervised Learning incorporates training data without any labels or classes. 
 2. Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.
 
 (A) The Scikit-Learn program is an open source library that is built on Pandas and other data analysis libraries. In fact, it was designed specifically for data mining and analysis such as feature extraction & normalizaition, regression, clustering, etc. It needs analysis libraries in order to achieve this functionality.
+
+## Deep Learning in Real World Problems
+### 7/9/2021
+
+COVID-19 Propogation based on Holiday Proximity: The Holiday model was developed under the hypothesis that proximity to major holidays and celebrations incentivize people to congregate in significant numbers during the pandemic. Such prolonged socialization increases the possibility of exposure to & contraction of COVID-19. I am curious about the predictive distribution model that shows accurate trajectories of COVID virus propagation with respect to major holidays & celebrations. Because the holidays serves as an indication of future increases, we can use this information as an adjustment to a prediction of a baseline model (e.g. exponential smoothing). This idea is similar to the seasonal adjustment factor in Winter's Method.
