@@ -31,6 +31,18 @@ Unsupervised Learning incorporates training data without any labels or classes. 
 ## Deep Learning in Real World Problems
 ### 7/9/2021
 
-(Problem) COVID-19 Propogation based on Holiday Proximity: The Holiday model was developed under the hypothesis that proximity to major holidays and celebrations incentivize people to congregate in significant numbers during the pandemic. Such prolonged socialization increases the possibility of exposure to & contraction of COVID-19. I am curious about the predictive distribution model that shows accurate trajectories of COVID virus propagation with respect to major holidays & celebrations. Because the holidays serves as an indication of future increases, we can use this information as an adjustment to a prediction of a baseline model (e.g. exponential smoothing). This idea is similar to the seasonal adjustment factor in Winter's Method.
+(Problem) COVID-19 Propogation based on racial diversity in America. There has been confirmation that members of low-income, mainly black, neighborhoods are disproportionately affected by the SarsCoV2 virus since its discovery back in 2019. Using a section of historical positive case data and population denisty data (compartmentalized by race), it may be possible to train an algorithm to predict which cities are at highest risk, ordered by race. This is not to prioritize any race over another, but rather to showcase a potentially systemic flaw in health care distribution, environmental conditions in urban and rural areas, and which communities suffer from preexisting conditions. Understanding these patterns and correlations may help hospitals allocate medical resources, remote service locations, vaccine resources, and more. 
 
+I'm not too sure the best algorithm to apply for this type of project, however I would wager either Support Vector Machines or Decision Trees may be most beneficial for this task. The SVM algorithm is a supervised machine learning algorithm which can be used for both classification or regression challenges. Apparently it is mostly used in classification problems. SVM transforms the data base on it, finds an optimal boundary between the possible outputs. 
 
+The SVM Algorithm
+1. Define an optimal hyperplane with a maximized margin
+2. Map data to a high dimensional space where it is easier to classify with linear decision surfaces
+3. Reformulate problem so that data is mapped implicitly into this space
+
+SVM has been used consistently in Bioinformatics to classify proteins, genes, malignant cells, etc. Understanding that, I think it shows promise for classifying positive test subjects and compartmentalizing them by location, yielding predictive analytics for labeled categories. 
+
+I also think Decision Trees may also be a promising algorithm. A decision tree is a decision support tool that uses a tree-like model of decision-making process and the possible consequences. It covers event outcomes, resource costs, and utility of decisions. Decision Trees resemble an algorithm or a flowchart that contains only conditional control statements. This could be a beneficial model for outlining allocation of resourcesm based on concentration of positive testing  individuals within a limited radius. 
+
+[CRDT Data - CRDT.zip](https://github.com/MatthewMZN/FutureMakers/files/6852183/CRDT.Data.-.CRDT.zip)
+https://demographics.coopercenter.org/racial-dot-map#thedata
