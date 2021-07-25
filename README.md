@@ -56,4 +56,6 @@ https://demographics.coopercenter.org/racial-dot-map#thedata
 
 2. What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
 
-(A)
+(A) I suppose that all of the outputs printed in the interactive models were in the form of arrays. I noticed that the multiplication of the x1, x2 variables in the model produced a 1x4 row vector, with each element as the multiplicative result of the same elements in each array. So, is this to say that algebraic operations on tensors will always result in tensors? Other operations could potentially yield other classes of tensors, like scalars, should the rank of the array go to zero. What's also interesting is that the tutotrial claims that interactive sessions need to be ran in order for the quantifiable values of tensors to be printed, however in Google Colab the values are automatically printed without need to initialize a sesison. The information is printed alongside the arrays. 
+
+The other computations regarding the transformation of the image data set was light, if that. Mainly the tutorial presented various ways to extract features and standardize image sizes, but other than that there weren't any noticeable computations that I was aware of. 
