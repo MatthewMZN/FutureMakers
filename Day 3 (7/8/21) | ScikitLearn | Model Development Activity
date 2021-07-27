@@ -1,0 +1,103 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": " Day 3 | 7/8/21 Scikit-Learn | Model Development Activity",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNmMrbYhmi9PHh3q3P+6aDQ",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/MatthewMZN/FutureMakers/blob/main/Day%203%20(7/8/21)%20%7C%20ScikitLearn%20%7C%20Model%20Development%20Activity\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "zbZv93t_zC6k"
+      },
+      "source": [
+        "from sklearn.datasets import load_iris\n",
+        "from sklearn import tree\n",
+        "import numpy as np\n",
+        "\n",
+        "# Load in our dataset\n",
+        "iris_data = load_iris()\n",
+        "\n",
+        "# Initialize our decision tree object\n",
+        "classification_tree = tree.DecisionTreeClassifier()\n",
+        "\n",
+        "# Train our decision tree (tree induction + pruning)\n",
+        "classification_tree = classification_tree.fit(iris_data.data, iris_data.target)"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "jaYfapKRcBU7"
+      },
+      "source": [
+        "iris_data['data']"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 35
+        },
+        "id": "dn5g1IQkbXff",
+        "outputId": "3ad2efdc-feeb-48eb-ec04-d889dc740c43"
+      },
+      "source": [
+        "import graphviz \n",
+        "dot_data = tree.export_graphviz(classification_tree, out_file=None, \n",
+        "                     feature_names=iris_data.feature_names,  \n",
+        "                     class_names=iris_data.target_names,  \n",
+        "                     filled=True, rounded=True,  \n",
+        "                     special_characters=True)  \n",
+        "graph = graphviz.Source(dot_data)  \n",
+        "graph.render(\"iris\") "
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "application/vnd.google.colaboratory.intrinsic+json": {
+              "type": "string"
+            },
+            "text/plain": [
+              "'iris.pdf'"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 7
+        }
+      ]
+    }
+  ]
+}
