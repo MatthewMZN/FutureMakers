@@ -33,7 +33,7 @@
 
 # MIT FutureMakers | Week 1
 
-## Day 1 | What I Hope To Learn **[TOC](#table-of-contents)**<br>
+## Day 1 | What I Hope To Learn | **[TOC](#table-of-contents)**<br>
 ### 7/6/2021
 
 ### Action Item : 
@@ -49,7 +49,7 @@ In addition to my self edification and anxiety, I also hope to improve my abilit
 ### Helpful Resource
 Used the following guide to establish a fundamental understanding of Python. Check out this [handbook](https://www.pythonlikeyoumeanit.com/)!
 
-## Day 2 | Dr. David Kong | Leadership & Storytelling
+## Day 2 | Dr. David Kong | Leadership & Storytelling | **[TOC](#table-of-contents)**<br>
 ### 7/7/2021
 
 ### Who is Dr. David Kong?
@@ -75,7 +75,7 @@ Those continuous efforts enlightened me on how impactful my story, my presence, 
 ### Helpful Resource
 Continued to use the following guide to establish a fundamental understanding of Python. Check out this [handbook](https://www.pythonlikeyoumeanit.com/)!
 
-## Day 3 | Introduction to Machine Learning & Scikit-Learn
+## Day 3 | Introduction to Machine Learning & Scikit-Learn | **[TOC](#table-of-contents)**<br>
 ### 7/8/2021
 
 ### Lesson Plan: 
@@ -105,7 +105,7 @@ Unsupervised Learning incorporates training data without any labels or classes. 
 ### Supplemental Activity: [ADD]
 Designed a Machine Learning Model using a [ML Kaggle Activity](https://www.kaggle.com/dansbecker/your-first-machine-learning-model)
 
-## Day 4 | Deep Learning in Real World Problems
+## Day 4 | Deep Learning in Real World Problems | **[TOC](#table-of-contents)**<br>
 ### 7/9/2021
 
 ### Lesson Plan:
@@ -141,7 +141,7 @@ Using the following article, I learned the distinction between Artificial Intell
 I read about some of the ethical concerns discussed when applying or using Machine Learning. This is a helpful resource when generating ideas for public use and other future projects. [Check it out](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12)!
 
 # MIT FutureMakers | Week 2
-## Day 7 | The Nature and Capacity of TensorFlow
+## Day 7 | The Nature and Capacity of TensorFlow | **[TOC](#table-of-contents)**<br>
 ### 7/12/2021
 
 ### Lesson Plan:
@@ -170,7 +170,7 @@ The other computations regarding the transformation of the image data set was li
 ### Supplemental Activity: [ADD]
 Used a TensorFlow [Jupyter Notebook](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) to learn how to recognize Human Activity using smartphone sensor data.
 
-## Day 8 | What Are Neural Networks?
+## Day 8 | What Are Neural Networks? | **[TOC](#table-of-contents)**<br>
 ### 7/13/2021
 
 ### Lesson Plan:
@@ -183,7 +183,7 @@ Use what you learned in the article above (i.e. Neuron, Weights, Bias, Functions
 
 ### Reflection: [ADD]
 
-## Day 9 | Introduction to Convolutional Neural Networks 
+## Day 9 | Introduction to Convolutional Neural Networks | **[TOC](#table-of-contents)**<br>
 ### 7/14/2021
 
 ### Lesson Plan: 
@@ -199,7 +199,7 @@ Review this [Kaggle tutorial](https://www.kaggle.com/kanncaa1/convolutional-neur
 ### Supplemental Activity:
 Review the thinking behind the convolution operation and how the operation is carried out using CNNs with this [article](https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/). 
 
-## Day 10 | Algorithm Bias & Data Sets [ADD]
+## Day 10 | Algorithm Bias & Data Sets [ADD] | **[TOC](#table-of-contents)**<br>
 ### 7/15/2021
 
 ### Lesson Plan:
@@ -223,7 +223,7 @@ It's important understand that the AI and automated systems we train could poten
 
 ### Reflection: [ADD]
 
-## Day 11 | Neural Network Layers & MNIST Digit Practice 
+## Day 11 | Neural Network Layers & MNIST Digit Practice | **[TOC](#table-of-contents)**<br>
 ### 7/16/2021
 
 ### Lesson Plan: 
@@ -238,33 +238,33 @@ images.
 ### Reflection: [ADD]
 
 # MIT FutureMakers | Week 3
-## Day 14 | Loss Functions 
+## Day 14 | Loss Functions | **[TOC](#table-of-contents)**<br>
 ### 7/19/2021
 
-## Day 15 | Activation Functions 
+## Day 15 | Activation Functions | **[TOC](#table-of-contents)**<br>
 ### 7/20/2021
 
-## Day 16 | Ethics-Driven Machine Learning Practive 
+## Day 16 | Ethics-Driven Machine Learning Practive | **[TOC](#table-of-contents)**<br>
 ### 7/21/2021
 
-## Day 17 | Image Classification & Machine Learning 
+## Day 17 | Image Classification & Machine Learning | **[TOC](#table-of-contents)**<br>
 ### 7/22/2021
 
-## Day 18 | Data Overfitting & Regularization 
+## Day 18 | Data Overfitting & Regularization | **[TOC](#table-of-contents)**<br>
 ### 7/23/2021
 
 # MIT FutureMakers | Week 4
-## Day 21 | Upsampling & Autoencoding 
+## Day 21 | Upsampling & Autoencoding | **[TOC](#table-of-contents)**<br>
 ### 7/26/2021
 
-## Day 22 | Affective Computing  
+## Day 22 | Affective Computing | **[TOC](#table-of-contents)**<br>
 ### 7/27/2021
 
-## Day 23 | Natural Language Processing 
+## Day 23 | Natural Language Processing | **[TOC](#table-of-contents)**<br>
 ### 7/28/2021
 
-## Day 24 | Computer Vision (CV) 
+## Day 24 | Computer Vision (CV) | **[TOC](#table-of-contents)**<br>
 ### 7/29/2021
 
-## Day 25 | Getting Ready for the Create-A-Thon 
+## Day 25 | Getting Ready for the Create-A-Thon | **[TOC](#table-of-contents)**<br>
 ### 7/30/2021
