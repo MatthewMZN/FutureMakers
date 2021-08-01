@@ -333,7 +333,7 @@ How to check if a CNN is generating false predictions (i.e. predicting a â€˜catâ
 
 ## D. Videos
 1. [Why Should I Care About DEI](https://www.youtube.com/watch?v=yqIpPwkpXXc)
-2. [Loss Functions & Optimization](uhttps://www.youtube.com/watch?v=h7iBpEHGVNcrl)
+2. [Loss Functions & Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNcrl)
 3. [TED: Technology & Emotions](https://www.youtube.com/watch?v=ujxriwApPP4)
 4. [TED: This App Knows How I Feel](https://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/reading-list?language=en)
 5. [Tutorial: Computer Vision](https://cbmm.mit.edu/video/tutorial-computer-vision-4817)
