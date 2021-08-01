@@ -8,7 +8,7 @@
 ## Day 1 | What I Hope To Learn 
 ### 7/6/2021
 
-#### Action Item : 
+### Action Item : 
 Create a section in your README or wiki called Responses to add reflections or answers for each activity. Remember to mark each response with the associated date. For Day 1’s reflection, reflect on what you hope to learn in this program.
 
 ### Reflection : 
