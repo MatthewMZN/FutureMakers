@@ -1,3 +1,6 @@
+### Table of Contents
+**[Day 1 | What I Hope To Learn](#day-1-what-i-hope-to-learn)**<br>
+
 # MIT FutureMakers | Week 1
 
 ## Day 1 | What I Hope To Learn 
