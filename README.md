@@ -176,7 +176,7 @@ Familiarized myself with multiple Deep Learning Libraries.
 Write about or record a video of yourself answering the following questions:
 
 1. What are "Tensors" and what are they used for in Machine Learning?
-2. What did you ntoice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
+2. What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
 
 ### Reflection:
 1. What are “Tensors” and what are they used for in Machine Learning?
