@@ -237,7 +237,9 @@ Play “Survival of the Best Fit'' to learn more about how AI might impact human
 share your ideas on how you make this model more fair, inclusive, and
 equitable? Please reflect on why you selected this specific biased model.
 
-### Reflection: [ADD]
+### Reflection:
+
+1. The game seemed to represent an exaggerated microcosm of the environment of StartUp culture and potential hiring bias. The exaggerated element, in my opinion, comes from the accelerated time crunch of hiring people. I have never been in a recruiting position for a develop company before, however I am skeptical that hiring decisions need to be made within a matter of seconds. However, I do understand that reading resumes and cover letters is not always the best use of a recruiters time as the company is expanding, so I'm more inclined to give the utilization of ML and AI grace in this game. Furthermore, I think ML and AI were showcased following the trajectory of algorithmic preferences based on previous data. People are bias, therefore so are there decisions. The algorithms are designed to accelerate or emphasize those decisions to improve company progress. In that regard, the tools were used and functioned how I expect novel or inconsiderate programmers to design them. However, as I was playing I recognized that there weren't too many oppotunities to retrain the algorithms after my team caught onto the bias of the program. In real life, hopefully, when productivity plateaus like it did in the game, companies will reevaluate how they are hiring more meticulously before bringing anyone else on. It may cost money at the beginning but it will be worth it in the long run. So in short, the company mindset of prioritizing short verus long term gratification in the hiring of its employees needs to be adjusted.
 
 ### Supplemental Material: 
 Reviewed a short [video](https://www.youtube.com/watch?v=yqIpPwkpXXc) that explains the significance of considering Diversity, Equity & Inclusion in different environments, such as society, online spaces, school, work, etc.
