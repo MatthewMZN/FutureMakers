@@ -1,5 +1,5 @@
 ### Table of Contents
-***MIT FutureMakers Week 1***
+***_MIT FutureMakers Week 1_***
 
 **[Day 1 | What I Hope To Learn](#day-1--what-i-hope-to-learn)**<br>
 **[Day 2 | Dr. David Kong | Leadership & Storytelling](#day-2--dr-david-kong--leadership--storytelling)**<br>
