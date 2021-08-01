@@ -48,7 +48,7 @@ I also think Decision Trees may also be a promising algorithm. A decision tree i
 https://demographics.coopercenter.org/racial-dot-map#thedata
 
 ## The Nature and Capacity of TensorFlow
-### 7/12/2021
+### Day 7 | 7/12/2021
 
 1. What are “Tensors” and what are they used for in Machine Learning?
 
@@ -59,3 +59,10 @@ https://demographics.coopercenter.org/racial-dot-map#thedata
 (A) I suppose that all of the outputs printed in the interactive models were in the form of arrays. I noticed that the multiplication of the x1, x2 variables in the model produced a 1x4 row vector, with each element as the multiplicative result of the same elements in each array. So, is this to say that algebraic operations on tensors will always result in tensors? Other operations could potentially yield other classes of tensors, like scalars, should the rank of the array go to zero. What's also interesting is that the tutotrial claims that interactive sessions need to be ran in order for the quantifiable values of tensors to be printed, however in Google Colab the values are automatically printed without need to initialize a sesison. The information is printed alongside the arrays. 
 
 The other computations regarding the transformation of the image data set was light, if that. Mainly the tutorial presented various ways to extract features and standardize image sizes, but other than that there weren't any noticeable computations that I was aware of. 
+
+## What Are Neural Networks?
+### Day 8 | 7/13/2021
+
+Lesson Plan
+Review [this guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) to learn about the common components of Neural Networks, and how they work with different ML functions and algorithms.
+
