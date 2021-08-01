@@ -1,12 +1,12 @@
 ### Table of Contents
-***_MIT FutureMakers Week 1_***
+**WEEK 1 | THE BASICS**
 
 **[Day 1 | What I Hope To Learn](#day-1--what-i-hope-to-learn)**<br>
 **[Day 2 | Dr. David Kong | Leadership & Storytelling](#day-2--dr-david-kong--leadership--storytelling)**<br>
 **[Day 3 | Introduction to Machine Learning & Scikit-Learn](#day-3--introduction-to-machine-learning--scikit-learn)**<br>
 **[Day 4 | Deep Learning in Real World Problems](#day-4--deep-learning-in-real-world-problems)**<br>
 
-***MIT FutureMakers Week 2***
+**WEEK 2 | CNNS, DATA & MACHINE LEARNING**
 
 **[Day 7 | The Nature & Capacity of Tensorflow](#day-7--the-nature-and-capacity-of-tensorflow)**<br>
 **[Day 8 | What Are Neural Networks?](#day-8--what-are-neural-networks)**<br>
@@ -14,7 +14,7 @@
 **[Day 10 | Algoeithm Bias & Data Sets](#day-10--algorithm-bias--data-sets-add)**<br>
 **[Day 11 | Neural Network Layers & MNIST Digit Practice](#day-11--neural-network-layers--mnist-digit-practice)**<br>
 
-***MIT FutureMakers Week 3***
+**WEEK 3 | FUNCTIONS AND PREDICTIONS**
 
 **[Day 14 | Loss Functions](#day-14--loss-functions)**<br>
 **[Day 15 | Activation Functions](#day-15--activation-functions)**<br>
@@ -22,7 +22,7 @@
 **[Day 17 | Image Classification & Machine Learning](#day-17--image-classification--machine-learning)**<br>
 **[Day 18 | Data Overfitting & Regularization](#day-18--data-overfitting--regularization)**<br>
 
-***MIT FutureMakers Week 4***
+**WEEK 4 | APPLICATIONS OF MACHINE LEARNING**
 
 **[Day 21 | Upsampling & Autoencoding](#day-21--upsampling--autoencoding)**<br>
 **[Day 22 | Affective Computing](#day-22--affective-computing)**<br>
