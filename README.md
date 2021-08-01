@@ -44,7 +44,13 @@ The MIT FutureMakers Create-a-Thon is a Two-Step Artificial Intelligence Fellows
 **[Day 23 | Natural Language Processing](#day-23--natural-language-processing--toc)**<br>
 **[Day 24 | Computer Vision](#day-24--computer-vision-cv--toc)**<br>
 **[Day 25 | Getting Ready for the Create-A-thon](#day-25--getting-ready-for-the-create-a-thon--toc)**<br>
-
+ 
+ **INDEX**
+ 
+ **[A. Cheat Sheets](#a-cheat-seats--toc)**<br>
+ **[B. Libraries](#b-libraries--toc)**<br>
+ **[C. Articles](#c-articles--toc)**<br>
+ **[D. Videos](#d-video--toc)**<br>
 
 # WEEK 1 | THE BASICS
 
@@ -295,19 +301,19 @@ How to check if a CNN is generating false predictions (i.e. predicting a â€˜catâ
 ### 7/30/2021
 
 # Index 
-## A. Cheat Sheets
+## A. Cheat Sheets | **[TOC](#table-of-contents)**<br>
 1. [Loss Functions](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
 2. [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 3. [Natural Language Processing](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
 4. [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 5. [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
-## B. Libraries
-1. [Skikit-Learn](https://scikit-learn.org/stable/) 
+## B. Libraries | **[TOC](#table-of-contents)**<br>
+1. [Scikit-Learn](https://scikit-learn.org/stable/) 
 2. [TensorFlow](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
 3. [Keras](https://www.datacamp.com/community/tutorials/deep-learning-python?utm_source=adwords_ppc&utm_campaignid=1658343521&utm_adgroupid=63833880615&utm_device=c&utm_keyword=keras&utm_matchtype=p&utm_network=g&utm_adpostion=&utm_creative=319519154328&utm_targetid=aud-299261629654:kwd-295071417107&utm_loc_interest_ms=&utm_loc_physical_ms=9016565&gclid=CjwKCAiAxp-ABhALEiwAXm6IyQJo6LA_Z4HlQUiBhrfFwOFL3Vu0bDTjMI53og6hcZfeWIkzEZRBTxoCzbkQAvD_BwE)
 
-## C. Articles
+## C. Articles | **[TOC](#table-of-contents)**<br>
 1. [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/)
 2. [GitHub README Documentation Formatting](https://guides.github.com/features/wikis/#Formatting-a-readmeE%E2%80%9D)
 3. [Scikit-Learn Model Development Activity](https://towardsdatascience.com/an-introduction-to-scikit-learn-the-gold-standard-of-python-machine-learning-e2b9238a98ab)
@@ -331,7 +337,7 @@ How to check if a CNN is generating false predictions (i.e. predicting a â€˜catâ
 21. [Beginner-Friendly NLP Projects with Pre-Trained Models](https://medium.com/@calebkaiser/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0)
 22. [What is the Internet of Things](https://www.wired.co.uk/article/internet-of-things-what-is-explained-iot)
 
-## D. Videos
+## D. Videos | **[TOC](#table-of-contents)**<br>
 1. [Why Should I Care About DEI](https://www.youtube.com/watch?v=yqIpPwkpXXc)
 2. [Loss Functions & Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNcrl)
 3. [TED: Technology & Emotions](https://www.youtube.com/watch?v=ujxriwApPP4)
