@@ -26,7 +26,7 @@ The MIT FutureMakers Create-a-Thon is a Two-Step Artificial Intelligence Fellows
 **[Day 7 | The Nature & Capacity of Tensorflow](#day-7--the-nature-and-capacity-of-tensorflow--toc)**<br>
 **[Day 8 | What Are Neural Networks?](#day-8--what-are-neural-networks--toc)**<br>
 **[Day 9 | Introduction to Convolutional Neural Networks](#day-9--introduction-to-convolutional-neural-networks--toc)**<br>
-**[Day 10 | Algoeithm Bias & Data Sets](#day-10--algorithm-bias--data-sets--toc)**<br>
+**[Day 10 | Algorithm Bias & Data Sets](#day-10--algorithm-bias--data-sets--toc)**<br>
 **[Day 11 | Neural Network Layers & MNIST Digit Practice](#day-11--neural-network-layers--mnist-digit-practice--toc)**<br>
 
 **WEEK 3 | FUNCTIONS AND PREDICTIONS**
