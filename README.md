@@ -87,6 +87,10 @@ I believe my purpose is to bring messages of humanity to people, intergeneration
 
 Those continuous efforts enlightened me on how impactful my story, my presence, and my voice all really are. When I share my life, I feel validated, seen, uplifted and encouraged. And then I realized that my purpose was to _continue sharing_. And I began to see how much of a difference it makes--from the people I surround myself with, to the way I perceive the world, to what others find possible in their lives that once may not have been. The manifestation of my implicit truths have garnered beautiful experiences for me 10x over, and it is my purpose to share my wealth with the rest of the world. So that's exactly what I'm going to do. 
 
+<p align="center">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/87036439/127763586-bf5b5f66-44fe-4e50-82b3-20c2f7b0f47b.gif" alt="tell-a-story-guide-promo-superJumbo-v4">
+</p>
+
 ### Helpful Resource
 Continued to use the following guide to establish a fundamental understanding of Python. Check out this [handbook](https://www.pythonlikeyoumeanit.com/)!
 
