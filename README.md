@@ -1,4 +1,4 @@
-### Table of Contents
+## Table of Contents
 **WEEK 1 | THE BASICS**
 
 **[Day 1 | What I Hope To Learn](#day-1--what-i-hope-to-learn)**<br>
