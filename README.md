@@ -137,10 +137,7 @@ Designed a Machine Learning Model using a [ML Kaggle Activity](https://www.kaggl
 Approached a high-level understanding of Deep Learning models & algorithms using this [article](https://serokell.io/blog/deep-learning-and-neural-network-guide).
 
 ### Action Item:
-Think about a real-world problem and see if you can find a dataset that has the
-characteristics of the data of that problem. Then, think about the deep learning
-algorithm that you would likely use to develop a solution to it. Outline why you
-picked a particular approach and share the dataset
+Think about a real-world problem and see if you can find a dataset that has the characteristics of the data of that problem. Then, think about the deep learning algorithm that you would likely use to develop a solution to it. Outline why you picked a particular approach and share the dataset.
 
 ### Reflection:
 (Problem) COVID-19 Propogation based on racial diversity in America. There has been confirmation that members of low-income, mainly black, neighborhoods are disproportionately affected by the SarsCoV2 virus since its discovery back in 2019. Using a section of historical positive case data and population denisty data (compartmentalized by race), it may be possible to train an algorithm to predict which cities are at highest risk, ordered by race. This is not to prioritize any race over another, but rather to showcase a potentially systemic flaw in health care distribution, environmental conditions in urban and rural areas, and which communities suffer from preexisting conditions. Understanding these patterns and correlations may help hospitals allocate medical resources, remote service locations, vaccine resources, and more. 
@@ -201,7 +198,9 @@ Used a TensorFlow [Jupyter Notebook](https://github.com/guillaume-chevalier/LSTM
 ### Lesson Plan:
 Review [this guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) to learn about the common components of Neural Networks, and how they work with different ML functions and algorithms.
 
-![NN](https://user-images.githubusercontent.com/87036439/127758389-e428a5ba-5b1c-42d0-8804-9405d16b0eae.PNG)
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/87036439/127758389-e428a5ba-5b1c-42d0-8804-9405d16b0eae.PNG" alt="NN">
+</p>
 
 ### Action Item:
 Use what you learned in the article above (i.e. Neuron, Weights, Bias, Functions, Sigmoid, Softmax, Input vs Output, etc) to develop a NN model using this [Kaggle Notebook](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection). If you need some scaffolding code to get started, check out the “Code” tab on the shared link and select a recent Gold/Silver medal-ed notebook. Feel free to examine different notebooks to see different model topologies and select one that you find the most interesting or even explore combining them. 
