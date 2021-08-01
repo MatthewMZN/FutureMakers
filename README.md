@@ -313,27 +313,116 @@ One of the key factors in learning good features from images is to introduce non
 ## Day 16 | Ethics-Driven Machine Learning Practive | **[TOC](#table-of-contents)**<br>
 ### 7/21/2021
 
+### Lesson Plan:
+Improve your understanding of the importance of ethics in the real-world context of AI and automation with this [review](https://hub.packtpub.com/machine-learning-ethics-what-you-need-to-know-and-what-you-can-do/) on machine learning ethics.
+
+### Action Item: 
+Build a gender classification model from either of these two datasets: [facial images](https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn/#data) & [voice](https://www.kaggle.com/primaryobjects/voicegender). Use this [Kaggle notebook](https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn) as a guide as you develop your own model. Make predictions throughout the process on how accurate the algorithm will be about gender (or age, ethnicity, and gender for the facial dataset). The results may surprise you!
+
+### Reflection: [ADD]
+
 ## Day 17 | Image Classification & Machine Learning | **[TOC](#table-of-contents)**<br>
 ### 7/22/2021
 
+### Lesson Plan:
+1. Review some of the basics of image classification techniques with ML, using [this notebook](https://iq.opengenus.org/basics-of-machine-learning-image-classification-techniques/).
+2. Review how to build an image classification model using [this walkthrough](https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/).
+
+### Action Item:
+Examine this [Keras Notebook Activity](https://keras.io/examples/vision/image_classification_from_scratch/) to learn how to build an Image Classification model. Now build your own classification model using this as a guide. Try to modify training data, epochs and layer types and its depth or width, and see how the performance metrics change.
+
+### Reflection: [ADD]
+
 ## Day 18 | Data Overfitting & Regularization | **[TOC](#table-of-contents)**<br>
 ### 7/23/2021
+
+### Lesson Plan:
+How to check if your deep learning model is generalizable to new data? A model that learns the training dataset too well, i.e., performing near-perfectly on the training dataset but not performing well on a held-out sample set is called an overfit model, and regularization techniques (like weight decay) are needed to keep overfitting in check.
+
+1. Read about [how to avoid overfitting in deep learning neural networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/).
+2. Study the second half of [this article](https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4) starting with the ‘Visualizing Loss and Accuracy’ section). It discusses overfitting and regularization approaches.
+
+### Action Item:
+1. [Hands on Tutorial](https://towardsdatascience.com/handling-overfitting-in-deep-learning-models-c760ee047c6e#:~:text=Overfitting%20occurs%20when%20you%20achieve,are%20irrelevant%20in%20other%20data.&text=The%20best%20option%20is%20to%20get%20more%20training%20data): Follow this tutorial about different approaches for handling overfitting in deep learning models using the Twitter US Airline Sentiment data set. 
+2. Also, add your observations while changing the loss to regression based functions from the housing prices model.
+
+### Reflection: [ADD]
+
+### Supplemental Activity:
+In your housing prices project from earlier, change the loss to a regression based function (e.g. mean squared error or mean absolute error) and see what happens. Review the [Keras API for various loss functions](https://keras.io/api/losses/regression_losses/#meansquarederror-class).
+
+### Ethical Reflection:
+In [this article](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12), author A. Venkateswaran writes that overfitting deep learning models can be “detrimental to society”. Can you think of one way that an overfit model can be detrimental?
+
+### Reflection: [ADD]
 
 # WEEK 4 | APPLICATIONS OF MACHINE LEARNING
 ## Day 21 | Upsampling & Autoencoding | **[TOC](#table-of-contents)**<br>
 ### 7/26/2021
 
+### Lesson Plan: 
+So far we have only learned about reducing the size of the input image to a set of numbers or features (i.e. downsampling), but can we get the input image back from these downsampled numbers (i.e. upsampling)? A good place to start while learning about upsampling is with autoencoders, where an encoder module downsamples an input image to a set of numbers or features and a decoder module tries to reconstruct the input image back by upsampling these features.
+
+1. Check out [this upsampling tutorial](https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/) about adding upscaling layers to a deep learning model.
+2. Follow this [Autoencoder tutorial](https://blog.keras.io/building-autoencoders-in-keras.html) with actual code and visualization to develop autoencoder based reconstruction and noise removal.
+
+### Action Item:
+Commit your code to a new project-page from both the interactive tutorials on Github.
+
+### Reflection: [ADD]
+
 ## Day 22 | Affective Computing | **[TOC](#table-of-contents)**<br>
 ### 7/27/2021
+
+### Lesson Plan:
+Now that we know how machines perceive and make sense of the world, let’s dive into how machines make sense of humans, specifically, human emotions. Affective Computing is the study and development of systems and devices that can recognize, interpret, process, and simulate human emotions. In this module, we explore the applications of Affective Computing.
+
+1. Watch this [TED Talk](https://www.youtube.com/watch?v=ujxriwApPP4) by Professor Rosalid Picard to learn about the origins of Affective Computing. 
+2. [Read about the EMPath 2020 makeathon](https://mysurestart.com/case-study).
+3. Check out this [Speech Emotion Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) project. Download the [h5 model file](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer/blob/master/saved_models/Emotion_Voice_Detection_Model.h5).
+Record your own voice and try it out. (Look at this [AudioRecorder.ipynb](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer/blob/master/AudioRecorder.ipynb) notebook to learn how to record your voice. For loading and using the .h5 model, examine [this notebook](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer/blob/master/final_results_gender_test.ipynb)). Try changing voices and check your model performance.
+
+### Action Item: 
+Commit your code related to the speech emotion model exploration to a new project-page.  In the README, appropriately credit the author of the model. Additionally, comment on how the model was performing, and possible applications of Affective Computing.
+
+### Reflection: [ADD]
 
 ## Day 23 | Natural Language Processing | **[TOC](#table-of-contents)**<br>
 ### 7/28/2021
 
+### Lesson Plan:
+Check out this [beginner friendly guide](https://medium.com/@calebkaiser/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0) for more applied NLP projects. Make your own variation of one of the six examples that you found most interesting.
+
+### Cheat Sheet: Use [this guide](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff) for accessing various NLP resources.
+
+### Action Item:
+1. Build your own movie review classifier using this tutorial: [Sentiment Analysis Task on Movie Reviews](https://www.tensorflow.org/tutorials/keras/text_classification).
+2. Commit your code for the NLP model that you tried out to a new projectpage. Comment on your particular variation in your README.
+3. Write a reflection piece on the ethical implications of big NLP models such as
+GPT-2 and add it to your Responses section
+
+### Reflection: [ADD]
+
+### Supplemental:
+Try out this fun [Text Sentiment Analysis Project](https://www.kaggle.com/sanikamal/text-classification-with-python-and-keras).
+
 ## Day 24 | Computer Vision (CV) | **[TOC](#table-of-contents)**<br>
 ### 7/29/2021
 
+### Lesson Plan:
+1. Watch this [TED Talk by Rana El Kaliouby - This App Knows How I Feel](https://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/reading-list?language=en).
+2. Implement the emotion detection project outlined in this tutorial using OpenCV.
+
+### Supplemental:
+Check out this video tutorial on other applications of [Computer Vision](https://cbmm.mit.edu/video/tutorial-computer-vision-4817).
+
+### Action Item:
+Commit your code for the emotion detection project to a new projectpage. Try it out on your own face (if possible). Add a screenshot or video snippet of the results. 
+
 ## Day 25 | Getting Ready for the Create-A-Thon | **[TOC](#table-of-contents)**<br>
 ### 7/30/2021
+
+### Reflection: [ADD]
 
 # Index 
 ## A. Cheat Sheets | **[TOC](#table-of-contents)**<br>
