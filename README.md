@@ -6,6 +6,31 @@
 **[Day 3 | Introduction to Machine Learning & Scikit-Learn](#day-3--introduction-to-machine-learning--scikit-learn)**<br>
 **[Day 4 | Deep Learning in Real World Problems](#day-4--deep-learning-in-real-world-problems)**<br>
 
+***Week 2***
+
+**[Day 7 | The Nature & Capacity of Tensorflow](#day-7--the-nature-and-capacity-of-tensorflow)**<br>
+**[Day 8 | What Are Neural Networks?](#day-8--what-are-neural-networks)**<br>
+**[Day 9 | Introduction to Convolutional Neural Networks](#day-9--introduction-to-convolutional-neural-networks)**<br>
+**[Day 10 | Algoeithm Bias & Data Sets](#day-10--algorithm-bias--data-sets-add)**<br>
+**[Day 11 | Neural Network Layers & MNIST Digit Practice](#day-11--neural-network-layers--mnist-digit-practice)**<br>
+
+***Week 3***
+
+**[Day 14 | Loss Functions](#day-14--loss-functions)**<br>
+**[Day 15 | Activation Functions](#day-15--activation-functions)**<br>
+**[Day 16 | Ethics-Driven Machine Learning](#day-16--ethics-driven-machine-learning-practive)**<br>
+**[Day 17 | Image Classification & Machine Learning](#day-17--image-classification--machine-learning)**<br>
+**[Day 18 | Data Overfitting & Regularization](#day-18--data-overfitting--regularization)**<br>
+
+***Week 4***
+
+**[Day 21 | Upsampling & Autoencoding](#day-21--upsampling--autoencoding)**<br>
+**[Day 22 | Affective Computing](#day-22--affective-computing)**<br>
+**[Day 23 | Natural Language Processing](#day-23--natural-language-processing)**<br>
+**[Day 24 | Computer Vision](#day-24--computer-vision-cv)**<br>
+**[Day 25 | Getting Ready for the Create-A-thon](#day-25--getting-ready-for-the-create-a-thon)**<br>
+
+
 # MIT FutureMakers | Week 1
 
 ## Day 1 | What I Hope To Learn 
