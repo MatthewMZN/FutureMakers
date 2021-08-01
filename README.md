@@ -1,7 +1,7 @@
 # MIT FutureMakers Program
 The MIT FutureMakers Create-a-Thon is a Two-Step Artificial Intelligence Fellowship dedicated to diversifying the landscape of AI and the leaders behind it. [SureStart](https://mysurestart.com/) has partnered with the [MIT RAISE (Responsible AI for Social Empowerment and Education) Initiative](https://raise.mit.edu/) to select high achieving students with a diversity of experiences and perspectives, and develop their skills in Machine Learning and Product Development. Here's how:
 
-**TRAIN** | In the first phase of THE program, students learn AI skills through a curated, interest-led, self-paced curriculum, accessed virtually. Students are supported with one-on-one and group mentoring from experienced mentors who share knowledge, and provide accountability and encouragement.
+**TRAIN** | In the first phase of the program, students learn AI skills through a curated, interest-led, self-paced curriculum, accessed virtually. Students are supported with one-on-one and group mentoring from experienced mentors who share knowledge, and provide accountability and encouragement.
 
 **BUILD** | Then, it’s time to put those skills to work! In the second phase, students are placed into small teams to develop AI-based solutions to real-world problems with the support of a dedicated team mentor. The final projects are showcased in a virtual global Makeathon hosted by SureStart. 
 
