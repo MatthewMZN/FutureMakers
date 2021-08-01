@@ -247,7 +247,8 @@ Reviewed a short [video](https://www.youtube.com/watch?v=yqIpPwkpXXc) that expla
 ### A Dive into Ethics: 
 It's important understand that the AI and automated systems we train could potentially, likely accidentally, "learn" to be biased. Read this [article](http://gendershades.org/overview.html) and discuss some of the ways algorithms can be biased, and ways to avoid bias when constructing AI projects. 
 
-### Reflection: [ADD]
+### Reflection:
+Algorithms are a coded to reproduce the decision-based patterns it seems humans make. This does not imply that it is inherently neutral, quite the contrary in fact. Algorithms can be fed skewed data that are a production of racist, sexist and hihgly favorable datasets, like those for police departments and airports to indetify potential threats. Computers at precincts can be fed data of previous arrests, suspect classifications, locations of arrests, and so forth and produce racist descriptions that target darker males in low-income communities. This leads to overpolicing in poor neighborhoods, police brutality, a socially acceptable prejudice towards black men and the mass incarceration of the black community. Retraining algorithms start with retraining the bias/decisions that are fed to the algorithm. This means changing the decsions of people, or the decisions you give to the machine. When constructing AI projects, programmers and users need to be aware of who is creating the data, what their goals are, and where is the bias in their decision making. This is a societal issue, as the data only pulls from the biases we all have. But being aware is the first step to mitigiation. 
 
 ## Day 11 | Neural Network Layers & MNIST Digit Practice | **[TOC](#table-of-contents)**<br>
 ### 7/16/2021
