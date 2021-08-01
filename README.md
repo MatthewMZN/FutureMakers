@@ -1,6 +1,6 @@
 ### Table of Contents
-**[Day 1 | What I Hope To Learn](#day-1-|-what-i-hope-to-learn)**
-**[Day 2 | Dr. David Kong | Leadership & Storytelling](#day-2-|-dr.-david-kong-|-leadership-&-storytelling)**
+**[Day 1 | What I Hope To Learn](#day-1-|-what-i-hope-to-learn)**<br>
+**[Day 2 | Dr. David Kong | Leadership & Storytelling](#day-2-|-dr.-david-kong-|-leadership-&-storytelling)**<br>
 
 # MIT FutureMakers | Week 1
 
@@ -20,7 +20,7 @@ In addition to my self edification and anxiety, I also hope to improve my abilit
 ### Helpful Resource
 Used the following guide to establish a fundamental understanding of Python. Check out this [handbook](https://www.pythonlikeyoumeanit.com/)!
 
-## Day 2| Dr. David Kong | Leadership & Storytelling
+## Day 2 | Dr. David Kong | Leadership & Storytelling
 ### 7/7/2021
 
 ### Who is Dr. David Kong?
