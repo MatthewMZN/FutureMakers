@@ -1,6 +1,6 @@
 # FutureMakers
 
-## What I Hope To Learn (#What-I-Hope-To-Learn) 
+## What I Hope To Learn 
 ### Day 1 | 7/6/2021
 
 One of the main reasons I am here is because I am afraid of computer scienc. I always have been. Since attending my first coding course at Berkeley, I've struggled immensely not only with the involved logic of computer programming, but mustering the curiosity necessary to solve the puzzles programming is embedded in. I suppose failing that first course may have also had something to do with that. It's been a thorn in my side for a quite a while now, and each time some new overzealous engineering professor wants to assign coding homework problems, I get anxious and and mentally unhinged. I'm afraid of coding. I'm afraid of how much I don't know, of being the weakest link in group projects, and afraid that I am not smart enough to not only engage with the material but to master it. So when I saw the opportunity to work with MIT Raise and Surestart this summer, I sought to change how I felt. 
