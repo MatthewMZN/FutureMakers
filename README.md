@@ -170,7 +170,7 @@ I read about some of the ethical concerns discussed when applying or using Machi
 Familiarized myself with multiple Deep Learning Libraries.
 
 1. [TensorFlow Library](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) | An open source library for numerical computation “using data flow graphs” created by Google, which is predominantly used to implement complex machine and deep learning algorithms.
-2. [Keras Library](https://www.datacamp.com/community/tutorials/deep-learning-python?utm_source=adwords_ppc&utm_campaignid=1658343521&utm_adgroupid=63833880615&utm_device=c&utm_keyword=keras&utm_matchtype=p&utm_network=g&utm_adpostion=&utm_creative=319519154328&utm_targetid=aud-299261629654:kwd-295071417107&utm_loc_interest_ms=&utm_loc_physical_ms=9016565&gclid=CjwKCAiAxp-ABhALEiwAXm6IyQJo6LA_Z4HlQUiBhrfFwOFL3Vu0bDTjMI53og6hcZfeWIkzEZRBTxoCzbkQAvD_BwE) | 
+2. [Keras Library](https://www.datacamp.com/community/tutorials/deep-learning-python?utm_source=adwords_ppc&utm_campaignid=1658343521&utm_adgroupid=63833880615&utm_device=c&utm_keyword=keras&utm_matchtype=p&utm_network=g&utm_adpostion=&utm_creative=319519154328&utm_targetid=aud-299261629654:kwd-295071417107&utm_loc_interest_ms=&utm_loc_physical_ms=9016565&gclid=CjwKCAiAxp-ABhALEiwAXm6IyQJo6LA_Z4HlQUiBhrfFwOFL3Vu0bDTjMI53og6hcZfeWIkzEZRBTxoCzbkQAvD_BwE) 
 
 ### Action Item:
 Write about or record a video of yourself answering the following questions:
