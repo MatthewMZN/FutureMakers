@@ -260,6 +260,12 @@ images.
 ## Day 14 | Loss Functions | **[TOC](#table-of-contents)**<br>
 ### 7/19/2021
 
+### Lesson Plan: 
+How to check if a CNN is generating false predictions (i.e. predicting a ‘cat’ image as a ‘dog’) during training? It is typically done using loss functions (also used interchangeably with the term objective functions or cost functions). A loss function is "a function for penalizing the errors in prediction" (Hastie et al.'s "Elements of Statistical Learning", by p.37)
+
+1. For different target tasks, we set different loss functions. Read sections 1 through section 2.1 (through Binary Cross-Entropy) in [this article](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/).
+2. Video lecture: check out this [lecture video](https://www.youtube.com/watch?v=h7iBpEHGVNc) (or [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture3.pdf)) from Dr. Justin Johnson.
+
 ## Day 15 | Activation Functions | **[TOC](#table-of-contents)**<br>
 ### 7/20/2021
 
@@ -287,3 +293,16 @@ images.
 
 ## Day 25 | Getting Ready for the Create-A-Thon | **[TOC](#table-of-contents)**<br>
 ### 7/30/2021
+
+# Index 
+## A. Cheat Sheets
+1. [Loss Functions](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
+2. [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
+3. [Natural Language Processing](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
+4. [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+5. [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+## B. Libraries
+1. [Skikit-Learn](https://scikit-learn.org/stable/) 
+2. [TensorFlow](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
+3. [Keras](https://www.datacamp.com/community/tutorials/deep-learning-python?utm_source=adwords_ppc&utm_campaignid=1658343521&utm_adgroupid=63833880615&utm_device=c&utm_keyword=keras&utm_matchtype=p&utm_network=g&utm_adpostion=&utm_creative=319519154328&utm_targetid=aud-299261629654:kwd-295071417107&utm_loc_interest_ms=&utm_loc_physical_ms=9016565&gclid=CjwKCAiAxp-ABhALEiwAXm6IyQJo6LA_Z4HlQUiBhrfFwOFL3Vu0bDTjMI53og6hcZfeWIkzEZRBTxoCzbkQAvD_BwE)
