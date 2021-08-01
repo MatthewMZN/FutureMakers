@@ -26,7 +26,7 @@ The MIT FutureMakers Create-a-Thon is a Two-Step Artificial Intelligence Fellows
 **[Day 7 | The Nature & Capacity of Tensorflow](#day-7--the-nature-and-capacity-of-tensorflow--toc)**<br>
 **[Day 8 | What Are Neural Networks?](#day-8--what-are-neural-networks--toc)**<br>
 **[Day 9 | Introduction to Convolutional Neural Networks](#day-9--introduction-to-convolutional-neural-networks--toc)**<br>
-**[Day 10 | Algoeithm Bias & Data Sets](#day-10--algorithm-bias--data-sets-add--toc)**<br>
+**[Day 10 | Algoeithm Bias & Data Sets](#day-10--algorithm-bias--data-sets--toc)**<br>
 **[Day 11 | Neural Network Layers & MNIST Digit Practice](#day-11--neural-network-layers--mnist-digit-practice--toc)**<br>
 
 **WEEK 3 | FUNCTIONS AND PREDICTIONS**
@@ -223,7 +223,7 @@ Review this [Kaggle tutorial](https://www.kaggle.com/kanncaa1/convolutional-neur
 ### Supplemental Activity:
 Review the thinking behind the convolution operation and how the operation is carried out using CNNs with this [article](https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/). 
 
-## Day 10 | Algorithm Bias & Data Sets [ADD] | **[TOC](#table-of-contents)**<br>
+## Day 10 | Algorithm Bias & Data Sets | **[TOC](#table-of-contents)**<br>
 ### 7/15/2021
 
 ### Lesson Plan:
@@ -271,8 +271,44 @@ How to check if a CNN is generating false predictions (i.e. predicting a â€˜catâ
 1. For different target tasks, we set different loss functions. Read sections 1 through section 2.1 (through Binary Cross-Entropy) in [this article](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/).
 2. Video lecture: check out this [lecture video](https://www.youtube.com/watch?v=h7iBpEHGVNc) (or [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture3.pdf)) from Dr. Justin Johnson.
 
+### Action Item: 
+1. Predict house prices using a simple feed-forward neural network model using [this dataset](https://drive.google.com/file/d/1GfvKA0qznNVknghV4botnNxyH-KvODOC/view). Check out this [article](https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4) for a tutorial. Notice the function, which halts the training process when the model stops improving its accuracy and restores the best weights after stopping the training. 
+2. Add your code to a new project-page. Also upload the graph showing the mean squared error loss over the training epochs for training and testing sets.
+
+### Reflection: [ADD]
+
 ## Day 15 | Activation Functions | **[TOC](#table-of-contents)**<br>
 ### 7/20/2021
+
+### Lesson Plan: 
+One of the key factors in learning good features from images is to introduce nonlinearity through activation functions. An activation function in a neural network defines how the weighted sum of the input is transformed into an output from nodes in a layer of the network. 
+
+1. Check out [this tutorial](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/) on how to choose activation functions for deep learning. Try out the worked examples to see how different activation functions work.
+2. Learn how to implement the [Rectified Linear Unit](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/) (ReLU) (Jump to Section 3 - How to Implement the Rectified Linear Activation Function).
+
+<p align="center">
+  How to Choose an Activation Function for a Hidden Layer
+</p>
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/87036439/127768303-ac239293-203b-4077-b14e-6bded58664bf.jpg" alt="How-to-Choose-an-Hidden-Layer-Activation-Function">
+</p>
+
+<p align="center">
+  How to Choose an Activation Function for Output Layer
+</p>
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/87036439/127768307-3e3c59ad-62be-463a-b739-4d4f6be2e1db.png" alt="inbox_6454946_a06a661c6e1e0cc06df1e173e499c505_Traditional Programming (1)">
+</p>
+
+<p align="center">
+  Possible Activation Functions and Their Graphical Representations
+</p>
+
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/87036439/127768036-bb05d864-9b30-4c69-9133-60a71f98459b.gif" alt="EarlyPettyJackrabbit-size_restricted">
+</p>!
 
 ## Day 16 | Ethics-Driven Machine Learning Practive | **[TOC](#table-of-contents)**<br>
 ### 7/21/2021
