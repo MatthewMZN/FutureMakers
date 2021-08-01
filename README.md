@@ -1,5 +1,6 @@
 ### Table of Contents
-Week 1:
+***Week 1***
+
 **[Day 1 | What I Hope To Learn](#day-1--what-i-hope-to-learn)**<br>
 **[Day 2 | Dr. David Kong | Leadership & Storytelling](#day-2--dr-david-kong--leadership--storytelling)**<br>
 **[Day 3 | Introduction to Machine Learning & Scikit-Learn](#day-3--introduction-to-machine-learning--scikit-learn)**<br>
