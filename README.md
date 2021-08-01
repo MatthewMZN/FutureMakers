@@ -308,7 +308,7 @@ One of the key factors in learning good features from images is to introduce non
 
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/87036439/127768036-bb05d864-9b30-4c69-9133-60a71f98459b.gif" alt="EarlyPettyJackrabbit-size_restricted">
-</p>!
+</p>
 
 ## Day 16 | Ethics-Driven Machine Learning Practive | **[TOC](#table-of-contents)**<br>
 ### 7/21/2021
