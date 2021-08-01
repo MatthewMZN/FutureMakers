@@ -46,7 +46,7 @@ The MIT FutureMakers Create-a-Thon is a Two-Step Artificial Intelligence Fellows
 **[Day 25 | Getting Ready for the Create-A-thon](#day-25--getting-ready-for-the-create-a-thon--toc)**<br>
 
 
-# MIT FutureMakers | Week 1
+# THE BASICS | Week 1
 
 ## Day 1 | What I Hope To Learn | **[TOC](#table-of-contents)**<br>
 ### 7/6/2021
@@ -155,7 +155,7 @@ Using the following article, I learned the distinction between Artificial Intell
 ### Quick Dive Into the Ethics of AI: 
 I read about some of the ethical concerns discussed when applying or using Machine Learning. This is a helpful resource when generating ideas for public use and other future projects. [Check it out](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12)!
 
-# MIT FutureMakers | Week 2
+# CNNS, DATA & MACHINE LEARNING | Week 2
 ## Day 7 | The Nature and Capacity of TensorFlow | **[TOC](#table-of-contents)**<br>
 ### 7/12/2021
 
@@ -252,7 +252,7 @@ images.
 
 ### Reflection: [ADD]
 
-# MIT FutureMakers | Week 3
+# FUNCTIONS AND PREDICTIONS | Week 3
 ## Day 14 | Loss Functions | **[TOC](#table-of-contents)**<br>
 ### 7/19/2021
 
@@ -268,7 +268,7 @@ images.
 ## Day 18 | Data Overfitting & Regularization | **[TOC](#table-of-contents)**<br>
 ### 7/23/2021
 
-# MIT FutureMakers | Week 4
+# APPLICATIONS OF MACHINE LEARNING | Week 4
 ## Day 21 | Upsampling & Autoencoding | **[TOC](#table-of-contents)**<br>
 ### 7/26/2021
 
