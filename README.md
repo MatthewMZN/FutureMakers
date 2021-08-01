@@ -393,7 +393,8 @@ Commit your code related to the speech emotion model exploration to a new projec
 ### Lesson Plan:
 Check out this [beginner friendly guide](https://medium.com/@calebkaiser/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0) for more applied NLP projects. Make your own variation of one of the six examples that you found most interesting.
 
-### Cheat Sheet: Use [this guide](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff) for accessing various NLP resources.
+### Cheat Sheet: 
+Use [this guide](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff) for accessing various NLP resources.
 
 ### Action Item:
 1. Build your own movie review classifier using this tutorial: [Sentiment Analysis Task on Movie Reviews](https://www.tensorflow.org/tutorials/keras/text_classification).
