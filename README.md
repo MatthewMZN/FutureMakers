@@ -218,8 +218,6 @@ Use what you learned in the article above (i.e. Neuron, Weights, Bias, Functions
 ### Action Item:
 Review this [Kaggle tutorial](https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial). Extend the training data using the full training data from this [MNIST Database](http://yann.lecun.com/exdb/mnist/). Evaluate the model performance (hint: look at the confusion matrices) applied to the same test-set in comparison to the performance reported in the original Kaggle Tutorial Notebook.
 
-### Reflection: [ADD]
-
 ### Supplemental Activity:
 Review the thinking behind the convolution operation and how the operation is carried out using CNNs with this [article](https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/). 
 
@@ -262,7 +260,17 @@ Algorithms are a coded to reproduce the decision-based patterns it seems humans 
 2. Follow [this guide](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/) to develop a CNN for [classifying MNIST datasets](http://yann.lecun.com/exdb/mnist/). Evaluate the performance of the final model, and use it to make predictions on new
 images.
 
-### Reflection: [ADD]
+### Reflection:
+### **Convolutional NNs vs. Fully Connected NNs | What's the Difference?**
+| Fully Connected Neural Networks                                                          | Convolutional Neural Networks                                                                                    |
+|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **Definition:**<br> In a fully connected layer each neuron is connected to every neuron in the previous layer, and each connection has it's own weight. This is a totally general purpose connection pattern and makes no assumptions about the features in the data. It's also very expensive in terms of memory (weights) and computation (connections).                                                                                            | **Definition:**<br> A convolutional network uses layers where each neuron is only connected to a few local neurons in the previous layer, and the same set of weights (and local connection layout) is used for every neuron.                   |
+| **Applications:**<br>The major advantage of fully connected networks is that they are “structure agnostic” i.e. there are no special assumptions needed to be made about the input                                                                                      | **Applications:**<br>- Image Classification<br>- Image Clustering<br>- Object Detection in Images<br>- Character Recognition<br>- Natural Language Processing |
+| **Layers:**<br>Input layer — initial data for the neural network. Hidden layers — intermediate layer between input and output layer and place where all the computation is done. Output layer — produce the result for given inputs. A layer is a container that usually receives weighted input, transforms it with a set of mostly non-linear functions and then passes these values as output to the next layer. This allows programmers to fine tune the accuracy of ML models.     | **Layers:**<br>Input layer — initial data for the neural network. Hidden layers — intermediate layer between input and output layer and place where all the computation is done. Output layer — produce the result for given inputs. A layer is a container that usually receives weighted input, transforms it with a set of mostly non-linear functions and then passes these values as output to the next layer. This allows programmers to fine tune the accuracy of ML models. |
+
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/87036439/127786301-4c6dae11-7bca-4106-96b8-837b81307b42.png" alt="letf_0401">
+</p>
 
 # WEEK 3 | FUNCTIONS AND PREDICTIONS
 ## Day 14 | Loss Functions | **[TOC](#table-of-contents)**<br>
