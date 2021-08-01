@@ -47,10 +47,10 @@ The MIT FutureMakers Create-a-Thon is a Two-Step Artificial Intelligence Fellows
  
  **INDEX**
  
- **[A. Cheat Sheets](#a-cheat-seats--toc)**<br>
+ **[A. Cheat Sheets](#a-cheat-sheets--toc)**<br>
  **[B. Libraries](#b-libraries--toc)**<br>
  **[C. Articles](#c-articles--toc)**<br>
- **[D. Videos](#d-video--toc)**<br>
+ **[D. Videos](#d-videos--toc)**<br>
 
 # WEEK 1 | THE BASICS
 
