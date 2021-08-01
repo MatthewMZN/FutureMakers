@@ -1,6 +1,6 @@
 ### Table of Contents
-**[Day 1 | What I Hope To Learn](#day-1)**<br>
-**[Day 2 | Dr. David Kong | Leadership & Storytelling](#day-2)**<br>
+**[Day 1 | What I Hope To Learn](##day-1)**<br>
+**[Day 2 | Dr. David Kong | Leadership & Storytelling](##day-2)**<br>
 
 # MIT FutureMakers | Week 1
 
