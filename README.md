@@ -310,6 +310,14 @@ One of the key factors in learning good features from images is to introduce non
   <img width="800" src="https://user-images.githubusercontent.com/87036439/127768036-bb05d864-9b30-4c69-9133-60a71f98459b.gif" alt="EarlyPettyJackrabbit-size_restricted">
 </p>
 
+### Cheat Sheet: 
+[Activation functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html) and overlaying which function to use when.
+
+### Action Item: 
+Write a reflection piece on the advantages of the Rectified Linear activation function, along with one use case.
+
+### Reflection: [ADD]
+
 ## Day 16 | Ethics-Driven Machine Learning Practive | **[TOC](#table-of-contents)**<br>
 ### 7/21/2021
 
