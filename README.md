@@ -448,7 +448,8 @@ Commit your code for the emotion detection project to a new projectpage. Try it 
 ## Day 25 | Getting Ready for the Create-A-Thon | **[TOC](#table-of-contents)**<br>
 ### 7/30/2021
 
-### Reflection: [ADD]
+### Reflection:
+I'm looking forward to the Create-a-Thon. I know that 10 days of product development may not generate a full blown company, but the reality that I've been able to obtain susbstantive, relevant technical skills to even consider designing an AI prototype is remarkable. This reality is lightyears from where I was when I first started college, let alone when I first started this program. SureStart and MIT R.A.I.S.E have done a pretty bang-up job in cultivating not only hard programming skills, but also the confidence it takes to approach real-world problems from a solution-oriented mindset. I don't feel like I'm invincible, as I am well aware of how much of a novice I am in the software AI/ML world. But I can't help but feel better about myself and the way in which I can tangibly contribute to projects in design engineering, programming and solution eningeering. Hopefully this will grow into standardizing a formula to create a real impact in the communities I'm a apart of. Thanks to this program, I'm looking forward to the future as an engineer--something I'd never thought I'd say! :)
 
 # Index 
 ## A. Cheat Sheets | **[TOC](#table-of-contents)**<br>
