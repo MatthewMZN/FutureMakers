@@ -339,6 +339,9 @@ Improve your understanding of the importance of ethics in the real-world context
 ### Action Item: 
 Build a gender classification model from either of these two datasets: [facial images](https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn/#data) & [voice](https://www.kaggle.com/primaryobjects/voicegender) (I chose voice). Use this [Kaggle notebook](https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn) as a guide as you develop your own model. Make predictions throughout the process on how accurate the algorithm will be about gender (or age, ethnicity, and gender for the facial dataset).
 
+### Reflection
+My gender classification model yielded about 97% accuracy in distinguishing between those within the gender binary.
+
 ## Day 17 | Image Classification & Machine Learning | **[TOC](#table-of-contents)**<br>
 ### 7/22/2021
 
