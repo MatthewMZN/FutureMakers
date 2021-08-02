@@ -392,7 +392,8 @@ So far we have only learned about reducing the size of the input image to a set 
 ### Action Item:
 Commit your code to a new project-page from both the interactive tutorials on Github.
 
-### Reflection: [ADD]
+### Reflection:
+Created an Autoencoder that enhances the pixelation of hand drawn digits.
 
 ## Day 22 | Affective Computing | **[TOC](#table-of-contents)**<br>
 ### 7/27/2021
