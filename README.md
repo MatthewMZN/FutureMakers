@@ -337,9 +337,7 @@ ReLU is considered a high performing activation function because it is computati
 Improve your understanding of the importance of ethics in the real-world context of AI and automation with this [review](https://hub.packtpub.com/machine-learning-ethics-what-you-need-to-know-and-what-you-can-do/) on machine learning ethics.
 
 ### Action Item: 
-Build a gender classification model from either of these two datasets: [facial images](https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn/#data) & [voice](https://www.kaggle.com/primaryobjects/voicegender). Use this [Kaggle notebook](https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn) as a guide as you develop your own model. Make predictions throughout the process on how accurate the algorithm will be about gender (or age, ethnicity, and gender for the facial dataset). The results may surprise you!
-
-### Reflection: [ADD]
+Build a gender classification model from either of these two datasets: [facial images](https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn/#data) & [voice](https://www.kaggle.com/primaryobjects/voicegender) (I chose voice). Use this [Kaggle notebook](https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn) as a guide as you develop your own model. Make predictions throughout the process on how accurate the algorithm will be about gender (or age, ethnicity, and gender for the facial dataset).
 
 ## Day 17 | Image Classification & Machine Learning | **[TOC](#table-of-contents)**<br>
 ### 7/22/2021
