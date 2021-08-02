@@ -286,8 +286,6 @@ How to check if a CNN is generating false predictions (i.e. predicting a â€˜catâ
 1. Predict house prices using a simple feed-forward neural network model using [this dataset](https://drive.google.com/file/d/1GfvKA0qznNVknghV4botnNxyH-KvODOC/view). Check out this [article](https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4) for a tutorial. Notice the function, which halts the training process when the model stops improving its accuracy and restores the best weights after stopping the training. 
 2. Add your code to a new project-page. Also upload the graph showing the mean squared error loss over the training epochs for training and testing sets.
 
-### Reflection: [ADD]
-
 ## Day 15 | Activation Functions | **[TOC](#table-of-contents)**<br>
 ### 7/20/2021
 
@@ -327,7 +325,10 @@ One of the key factors in learning good features from images is to introduce non
 ### Action Item: 
 Write a reflection piece on the advantages of the Rectified Linear activation function, along with one use case.
 
-### Reflection: [ADD]
+### Reflection:
+With regard to the human brain, neurons are desinged to relay continuous information to adjacent neurons throughout the body. The neurons in neural networks are modeled to operate in the same capacity. Each neuron is connected with some input data, then multiplied by a series of weights, summed together and sent to the next layer. Activation functions are contained within each layer of neural connectivity, and their job is to decide what information gets fired to the next neuron. This process helps neural networks work more efficiently to recognize and learn complex patterns within data. Ergo, it is imperative that the correct activation functions are chosen in order to produce the highest accuracy in model development. 
+
+ReLU is considered a high performing activation function because it is computationally efficient, ceiling negative values to zero. The ReLU function takes the max(0,x), implying that a neuron is never deactivated unless the information relayed to it is less than zero. This conserves computational capacity as not all neurons are activated at the same time 
 
 ## Day 16 | Ethics-Driven Machine Learning Practive | **[TOC](#table-of-contents)**<br>
 ### 7/21/2021
