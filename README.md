@@ -206,7 +206,7 @@ Review [this guide](https://serokell.io/blog/deep-learning-and-neural-network-gu
 Use what you learned in the article above (i.e. Neuron, Weights, Bias, Functions, Sigmoid, Softmax, Input vs Output, etc) to develop a NN model using this [Kaggle Notebook](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection). If you need some scaffolding code to get started, check out the “Code” tab on the shared link and select a recent Gold/Silver medal-ed notebook. Feel free to examine different notebooks to see different model topologies and select one that you find the most interesting or even explore combining them. 
 
 ### Reflection: 
-Created a neural network capable of detecting sarcasm within the heaflines of various news articles. 
+Created a neural network capable of detecting sarcasm within the headlines of various news articles. 
 
 ## Day 9 | Introduction to Convolutional Neural Networks | **[TOC](#table-of-contents)**<br>
 ### 7/14/2021
