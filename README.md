@@ -352,7 +352,8 @@ My gender classification model yielded about 97% accuracy in distinguishing betw
 ### Action Item:
 Examine this [Keras Notebook Activity](https://keras.io/examples/vision/image_classification_from_scratch/) to learn how to build an Image Classification model. Now build your own classification model using this as a guide. Try to modify training data, epochs and layer types and its depth or width, and see how the performance metrics change.
 
-### Reflection: [ADD]
+### Reflection:
+Used the Kaggle Notebook to design an Image Classification NN for identifying dogs versus cats.
 
 ## Day 18 | Data Overfitting & Regularization | **[TOC](#table-of-contents)**<br>
 ### 7/23/2021
