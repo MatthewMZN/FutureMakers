@@ -47,10 +47,12 @@ The MIT FutureMakers Create-a-Thon is a Two-Step Artificial Intelligence Fellows
  
  **INDEX**
  
- **[A. Cheat Sheets](#a-cheat-sheets--toc)**<br>
- **[B. Libraries](#b-libraries--toc)**<br>
- **[C. Articles](#c-articles--toc)**<br>
- **[D. Videos](#d-videos--toc)**<br>
+ **[A. Python](#a-python--toc)**<br>
+ **[B. Cheat Sheets](#b-cheat-sheets--toc)**<br>
+ **[C. Libraries](#c-libraries--toc)**<br>
+ **[D. Articles](#d-articles--toc)**<br>
+ **[E. Machine Learning Mastery](#e-machine-learning-mastery--toc)**<br>
+ **[F. Videos](#f-videos--toc)**<br>
 
 # WEEK 1 | THE BASICS
 
@@ -452,45 +454,56 @@ Commit your code for the emotion detection project to a new projectpage. Try it 
 I'm looking forward to the Create-a-Thon. I know that 10 days of product development may not generate a full blown company, but the reality that I've been able to obtain susbstantive, relevant technical skills to even consider designing an AI prototype is remarkable. This reality is lightyears from where I was when I first started college, let alone when I first started this program. SureStart and MIT R.A.I.S.E have done a pretty bang-up job in cultivating not only hard programming skills, but also the confidence it takes to approach real-world problems from a solution-oriented mindset. I don't feel like I'm invincible, as I am well aware of how much of a novice I am in the software AI/ML world. But I can't help but feel better about myself and the way in which I can tangibly contribute to projects in design engineering, programming and solution eningeering. Hopefully this will grow into standardizing a formula to create a real impact in the communities I'm a apart of. Thanks to this program, I'm looking forward to the future as an engineer--something I'd never thought I'd say! :)
 
 # Index 
-## A. Cheat Sheets | **[TOC](#table-of-contents)**<br>
+## A. Python | **[TOC](#table-of-contents)**<br>
+1. [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/)
+2. [Python: Kaggle Lesson Plan](https://www.kaggle.com/learn/python)
+3. [The Python Tutorial: Documentation](https://docs.python.org/3.9/tutorial/index.html)
+4. [Learn Python Programming](https://pythonbasics.org/)
+5. [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython/html/index.html)
+6. [Hitchhiker's Guide to Python!](https://docs.python-guide.org/)
+7. [Python Functions Tutorial](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
+
+## B. Cheat Sheets | **[TOC](#table-of-contents)**<br>
 1. [Loss Functions](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
 2. [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 3. [Natural Language Processing](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff)
 4. [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 5. [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
-## B. Libraries | **[TOC](#table-of-contents)**<br>
+## C. Libraries | **[TOC](#table-of-contents)**<br>
 1. [Scikit-Learn](https://scikit-learn.org/stable/) 
 2. [TensorFlow](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) 
 3. [Keras](https://www.datacamp.com/community/tutorials/deep-learning-python?utm_source=adwords_ppc&utm_campaignid=1658343521&utm_adgroupid=63833880615&utm_device=c&utm_keyword=keras&utm_matchtype=p&utm_network=g&utm_adpostion=&utm_creative=319519154328&utm_targetid=aud-299261629654:kwd-295071417107&utm_loc_interest_ms=&utm_loc_physical_ms=9016565&gclid=CjwKCAiAxp-ABhALEiwAXm6IyQJo6LA_Z4HlQUiBhrfFwOFL3Vu0bDTjMI53og6hcZfeWIkzEZRBTxoCzbkQAvD_BwE)
 
-## C. Articles | **[TOC](#table-of-contents)**<br>
-1. [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/)
-2. [Beginner's Guide to Kaggle](https://elitedatascience.com/beginner-kaggle)
-3. [10 Tips to Get Started with Kaggle](https://medium.com/@ODSC/10-tips-to-get-started-with-kaggle-fc7cb9316d27)
-4. [GitHub README Documentation Formatting](https://guides.github.com/features/wikis/#Formatting-a-readmeE%E2%80%9D)
-5. [Scikit-Learn Model Development Activity](https://towardsdatascience.com/an-introduction-to-scikit-learn-the-gold-standard-of-python-machine-learning-e2b9238a98ab)
-6. [The Difference Between AI, Machine Learning & Deep Learning](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
-7. [Ethics is Machine Learning](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12)
-8. [A Guide to Deep Learning & Neural Networks](https://serokell.io/blog/deep-learning-and-neural-network-guide)
-9. [Confusion Matrices in Machine Learning](https://machinelearningmastery.com/confusion-matrix-machine-learning/)
-10. [The Logic of Convolutional Operation in CNNs](https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/)
-11. [Algorithmic Bias: Gender Shades](http://gendershades.org/overview.html)
-12. [CNNs, Explained](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
-13. [How To Choose Loss Functions in Neural Network Training](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
-14. [Predict Housing Prices with Keras](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
-15. [How To Choose Activations for Deep Learning](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
-16. [A Gentle Introduction to the Rectified Linear Unit (ReLU)](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
-17. [Machine Learning Ethics: What to Know, What to Do](https://hub.packtpub.com/machine-learning-ethics-what-you-need-to-know-and-what-you-can-do/)
-18. [Image Classification Model](https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/)
-19. [How to Avoid Overfitting in Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/)
-20. [Overfitting & Regularization Approaches](https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4)
-21. [Keras API for Various Loss Functions](https://keras.io/api/losses/regression_losses/#meansquarederror-class)
-22. [EMPath at Affectiva: A Case Study](https://mysurestart.com/case-study)
-23. [Beginner-Friendly NLP Projects with Pre-Trained Models](https://medium.com/@calebkaiser/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0)
-24. [What is the Internet of Things](https://www.wired.co.uk/article/internet-of-things-what-is-explained-iot)
+## D. Articles | **[TOC](#table-of-contents)**<br>
+1. [Beginner's Guide to Kaggle](https://elitedatascience.com/beginner-kaggle)
+2. [10 Tips to Get Started with Kaggle](https://medium.com/@ODSC/10-tips-to-get-started-with-kaggle-fc7cb9316d27)
+3. [GitHub README Documentation Formatting](https://guides.github.com/features/wikis/#Formatting-a-readmeE%E2%80%9D)
+4. [Scikit-Learn Model Development Activity](https://towardsdatascience.com/an-introduction-to-scikit-learn-the-gold-standard-of-python-machine-learning-e2b9238a98ab)
+5. [The Difference Between AI, Machine Learning & Deep Learning](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
+6. [Ethics is Machine Learning](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12)
+7. [A Guide to Deep Learning & Neural Networks](https://serokell.io/blog/deep-learning-and-neural-network-guide)
+8. [Algorithmic Bias: Gender Shades](http://gendershades.org/overview.html)
+9. [CNNs, Explained](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+10. [Machine Learning Ethics: What to Know, What to Do](https://hub.packtpub.com/machine-learning-ethics-what-you-need-to-know-and-what-you-can-do/)
+11. [Image Classification Model](https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/)
+12. [Overfitting & Regularization Approaches](https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4)
+13. [Keras API for Various Loss Functions](https://keras.io/api/losses/regression_losses/#meansquarederror-class)
+14. [EMPath at Affectiva: A Case Study](https://mysurestart.com/case-study)
+15. [Beginner-Friendly NLP Projects with Pre-Trained Models](https://medium.com/@calebkaiser/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0)
+16. [What is the Internet of Things](https://www.wired.co.uk/article/internet-of-things-what-is-explained-iot)
 
-## D. Videos | **[TOC](#table-of-contents)**<br>
+## E. Machine Learning Mastery | **[TOC](#table-of-contents)**<br>
+1. [How to Setup Your Python Environment for Machine Learning with Anaconda](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
+2. [Confusion Matrices in Machine Learning](https://machinelearningmastery.com/confusion-matrix-machine-learning/)
+3. [The Logic of Convolutional Operation in CNNs](https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/)
+4. [How To Choose Loss Functions in Neural Network Training](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
+5. [Predict Housing Prices with Keras](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
+6. [How To Choose Activations for Deep Learning](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
+7. [A Gentle Introduction to the Rectified Linear Unit (ReLU)](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
+8. [How to Avoid Overfitting in Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/)
+
+## F. Videos | **[TOC](#table-of-contents)**<br>
 1. [Why Should I Care About DEI](https://www.youtube.com/watch?v=yqIpPwkpXXc)
 2. [Loss Functions & Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNcrl)
 3. [TED: Technology & Emotions](https://www.youtube.com/watch?v=ujxriwApPP4)
