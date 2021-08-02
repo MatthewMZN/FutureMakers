@@ -239,7 +239,7 @@ Play “Survival of the Best Fit'' to learn more about how AI might impact human
 2. In 2015, academia and the media sources reported instances of apparent gender bias in Google search. Top results for a “CEO” image search returned only photos of white men.
 Shortly thereafter, a research study at Carnegie Mellon University revealed that Google displayed significantly less ads for high-paying executive jobs if the search engine thought a female job-seeker was conducting the search. The team found that “Google shows the [highpaying executive job] ads 1,852 times to the male group — but just 318 times to the female group.” In order to improve models like this, a consciousness of the issues need to be mentioned in the first place. These models are potent representations of people's decsions and unconscious bias, so catching the issues are difficult if people with other perspectives and preferences aren't there to point them out. Ergo, I wager greater diversity in software programmers (race, gender, nationality, etc.) may be a start inresolving the issue at its source, as opposed to downstream band-aid solutions. More people who considers more avenues of life and experience should be in the rooms when validation testing is conducted, and evaluate the results in multiple ares of decision making.
 
-### Supplemental Material: 
+### Supplemental Activity: 
 Reviewed a short [video](https://www.youtube.com/watch?v=yqIpPwkpXXc) that explains the significance of considering Diversity, Equity & Inclusion in different environments, such as society, online spaces, school, work, etc.
 
 ### A Dive into Ethics: 
@@ -428,7 +428,7 @@ GPT-2 and add it to your Responses section
 
 ### Reflection: [ADD]
 
-### Supplemental:
+### Supplemental Activity:
 Try out this fun [Text Sentiment Analysis Project](https://www.kaggle.com/sanikamal/text-classification-with-python-and-keras).
 
 ## Day 24 | Computer Vision (CV) | **[TOC](#table-of-contents)**<br>
@@ -438,7 +438,7 @@ Try out this fun [Text Sentiment Analysis Project](https://www.kaggle.com/sanika
 1. Watch this [TED Talk by Rana El Kaliouby - This App Knows How I Feel](https://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/reading-list?language=en).
 2. Implement the emotion detection project outlined in this tutorial using OpenCV.
 
-### Supplemental:
+### Supplemental Activity:
 Check out this video tutorial on other applications of [Computer Vision](https://cbmm.mit.edu/video/tutorial-computer-vision-4817).
 
 ### Action Item:
