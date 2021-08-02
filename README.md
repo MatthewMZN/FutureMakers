@@ -376,7 +376,8 @@ In your housing prices project from earlier, change the loss to a regression bas
 ### Ethical Reflection:
 In [this article](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12), author A. Venkateswaran writes that overfitting deep learning models can be “detrimental to society”. Can you think of one way that an overfit model can be detrimental?
 
-### Reflection: [ADD]
+### Reflection: 
+Bias or even racist datasets that are fed to a machine learning algorithm is bad enough as it is. However, if the predicative model, let's say for identifying qualified candidates for faculty positions at the College of Engineering at UC Berkeley, memorizes the training data as opposed to simply recognizing patterns and generate a predictive model from that, then the Hiring Manager's bias is concretized within the algorithm. More so, ML models are wrongfully considered a true neutral, as a way for individuals to escape responsibility for skewed or inequitable decision making. Allowing issues like the lack of professorial diversity in engineering faculty to ensue creates an expanding divide between minority engineering students and their sense of belonging on campus. Isolation can create a series of psychological pitfalls that may supress a person's ability to connect, perform academically, which in turn affects their self-worth, confidence, post-collegiate prospects, etc. The list goes on. There are many goals of AI, but replicating poor decision making isn't one of them.
 
 # WEEK 4 | APPLICATIONS OF MACHINE LEARNING
 ## Day 21 | Upsampling & Autoencoding | **[TOC](#table-of-contents)**<br>
