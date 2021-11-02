@@ -129,7 +129,7 @@ Unsupervised Learning incorporates training data without any labels or classes. 
 
 (A) The Scikit-Learn program is an open source library that is built on Pandas and other data analysis libraries. In fact, it was designed specifically for data mining and analysis such as feature extraction & normalizaition, regression, clustering, etc. It needs analysis libraries in order to achieve this functionality.
 
-### Supplemental Activity: [ADD]
+### Supplemental Activity:
 Designed a Machine Learning Model using a [ML Kaggle Activity](https://www.kaggle.com/dansbecker/your-first-machine-learning-model)
 
 ## Day 4 | Deep Learning in Real World Problems | **[TOC](#table-of-contents)**<br>
@@ -191,7 +191,7 @@ Write about or record a video of yourself answering the following questions:
 
 The other computations regarding the transformation of the image data set was light, if that. Mainly the tutorial presented various ways to extract features and standardize image sizes, but other than that there weren't any noticeable computations that I was aware of. 
 
-### Supplemental Activity: [ADD]
+### Supplemental Activity:
 Used a TensorFlow [Jupyter Notebook](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) to learn how to recognize Human Activity using smartphone sensor data.
 
 ## Day 8 | What Are Neural Networks? | **[TOC](#table-of-contents)**<br>
@@ -371,8 +371,6 @@ How to check if your deep learning model is generalizable to new data? A model t
 1. [Hands on Tutorial](https://towardsdatascience.com/handling-overfitting-in-deep-learning-models-c760ee047c6e#:~:text=Overfitting%20occurs%20when%20you%20achieve,are%20irrelevant%20in%20other%20data.&text=The%20best%20option%20is%20to%20get%20more%20training%20data): Follow this tutorial about different approaches for handling overfitting in deep learning models using the Twitter US Airline Sentiment data set. 
 2. Also, add your observations while changing the loss to regression based functions from the housing prices model.
 
-### Reflection: [ADD]
-
 ### Supplemental Activity:
 In your housing prices project from earlier, change the loss to a regression based function (e.g. mean squared error or mean absolute error) and see what happens. Review the [Keras API for various loss functions](https://keras.io/api/losses/regression_losses/#meansquarederror-class).
 
@@ -412,8 +410,6 @@ Record your own voice and try it out. (Look at this [AudioRecorder.ipynb](https:
 ### Action Item: 
 Commit your code related to the speech emotion model exploration to a new project-page.  In the README, appropriately credit the author of the model. Additionally, comment on how the model was performing, and possible applications of Affective Computing.
 
-### Reflection: [ADD]
-
 ## Day 23 | Natural Language Processing | **[TOC](#table-of-contents)**<br>
 ### 7/28/2021
 
@@ -428,8 +424,6 @@ Use [this guide](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa
 2. Commit your code for the NLP model that you tried out to a new projectpage. Comment on your particular variation in your README.
 3. Write a reflection piece on the ethical implications of big NLP models such as
 GPT-2 and add it to your Responses section
-
-### Reflection: [ADD]
 
 ### Supplemental Activity:
 Try out this fun [Text Sentiment Analysis Project](https://www.kaggle.com/sanikamal/text-classification-with-python-and-keras).
